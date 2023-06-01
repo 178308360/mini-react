@@ -1,0 +1,3 @@
+packages:
+  # 在 packages 文件夹下的都是子目录
+  - "packages/*"
