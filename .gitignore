@@ -5,6 +5,7 @@
 
 # dependencies
 /node_modules
+react-demo/node_modules
 /.pnp
 .pnp.js
 *.eslintcache
